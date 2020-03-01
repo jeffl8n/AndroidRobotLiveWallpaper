@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+	<string-array name="animationImages">
+		<item>image01</item>
+		<item>image02</item>
+		<item>image03</item>
+		<item>image04</item>
+		<item>image05</item>
+		<item>image06</item>
+		<item>image07</item>
+		<item>image08</item>
+		<item>image09</item>
+		<item>image10</item>
+		<item>image11</item>
+		<item>image12</item>
+		<item>image13</item>
+		<item>image14</item>
+		<item>image15</item>
+		<item>image16</item>
+		<item>image17</item>
+		<item>image18</item>
+		<item>image19</item>
+		<item>image20</item>
+		<item>image21</item>
+		<item>image22</item>
+		<item>image23</item>
+		<item>image24</item>
+		<item>image25</item>
+		<item>image26</item>
+		<item>image27</item>
+		<item>image28</item>
+		<item>image29</item>
+		<item>image30</item>
+		<item>image31</item>
+		<item>image32</item>
+		<item>image33</item>
+		<item>image34</item>
+		<item>image35</item>
+		<item>image36</item>
+		<item>image37</item>
+		<item>image38</item>
+		<item>image39</item>
+		<item>image40</item>
+		<item>image41</item>
+		<item>image42</item>
+		<item>image43</item>
+		<item>image44</item>
+		<item>image45</item>
+		<item>image46</item>
+		<item>image47</item>
+		<item>image48</item>
+		<item>image49</item>
+		<item>image50</item>
+		<item>image51</item>
+		<item>image52</item>
+		<item>image53</item>
+		<item>image54</item>
+		<item>image55</item>
+		<item>image56</item>
+		<item>image57</item>
+		<item>image58</item>
+		<item>image59</item>
+		<item>image60</item>
+		<item>image61</item>
+		<item>image62</item>
+		<item>image63</item>
+		<item>image64</item>
+		<item>image65</item>
+		<item>image66</item>
+		<item>image67</item>
+		<item>image68</item>
+		<item>image69</item>
+		<item>image70</item>
+		<item>image71</item>
+		<item>image72</item>
+		<item>image73</item>
+		<item>image74</item>
+		<item>image75</item>
+		<item>image76</item>
+		<item>image77</item>
+		<item>image78</item>
+	</string-array>
+
+</resources>
